@@ -6,8 +6,10 @@ public class Main {
         // task01.printHelloName();
         // Task02 task02 = new Task02();
         // task02.goodTime();
-        Task03 task03 = new Task03();
-        task03.getMax();
+        // Task03 task03 = new Task03();
+        // task03.getMax();
+        Task04 task04 = new Task04();
+        task04.printReversString();
     } 
 }
 ;
